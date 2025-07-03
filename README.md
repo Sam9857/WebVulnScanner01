@@ -39,6 +39,19 @@ Install dependencies:
 ```bash
 pip install requests fpdf
 
+
+## ⚠️ Disclaimer
+
+This project is intended **strictly for educational and ethical testing purposes only**.
+
+Do **NOT** use this tool to scan websites or systems without **explicit written permission** from the owner. Unauthorized scanning or testing may be considered illegal and unethical.
+
+The developer is **not responsible** for any misuse or damage caused by this tool.  
+By using this project, you agree to take **full responsibility** for your actions and comply with all applicable laws and regulations.
+
+Always practice responsible disclosure and follow ethical hacking guidelines. 🛡️
+
+
 .
 ├── scanner.py         # Main script
 ├── report.html        # HTML report (generated)
