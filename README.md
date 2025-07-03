@@ -38,3 +38,10 @@ Install dependencies:
 
 ```bash
 pip install requests fpdf
+
+.
+├── scanner.py         # Main script
+├── report.html        # HTML report (generated)
+├── report.pdf         # PDF report (generated)
+└── README.md          # Project documentation
+
